@@ -51,36 +51,28 @@
 ._文本段落 {
   text-align:left;
 }
+.line {
+}
 .table_cell {
 }
-._连接线 {
+.box_2 {
 }
-.sticky_1 {
-  text-align:left;
+.ellipse {
+}
+.image {
+}
+.placeholder {
+}
+.primary_button {
+  color:#FFFFFF;
 }
 .box_1 {
 }
 .icon {
 }
-.box_2 {
-}
-.image {
-}
 .label {
-  font-size:13px;
+  font-size:14px;
   text-align:left;
 }
 .flow_shape {
-}
-.button {
-}
-.primary_button {
-  color:#FFFFFF;
-}
-.line {
-}
-.checkbox {
-  text-align:left;
-}
-._流程形状 {
 }
